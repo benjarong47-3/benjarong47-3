@@ -20,24 +20,24 @@
 ---
 
 ### 💼 Experience
-- 🖥️ **Full-Stack Projects**:contentReference[oaicite:2]{index=2}  
+- 🖥️ **Full-Stack Projects**:contentReference  
   - Developed web applications with **Node.js + Express + React** and database management  
   - Built a **Portfolio Website** with Dark Mode, Responsive Design, and Scroll Animation  
   - Worked in teams using GitHub workflow (Dev A / Dev B branching, merging, PRs)  
 
-- 🔌 **Embedded & IoT Projects**:contentReference[oaicite:3]{index=3}  
+- 🔌 **Embedded & IoT Projects**:contentReference
   - Designed and built a **data logger on ESP32**, recording audio via I2S microphones and sensor data (DHT22)  
   - Implemented **WAV/CSV auto-upload to Google Drive** via OAuth2 API  
   - Researched and prototyped an **ultrasonic plant-stress detection system**  
 
-- 🛠️ **Internship – Technician @ SpeedCM, Chiangmai (2022)**:contentReference[oaicite:4]{index=4}  
+- 🛠️ **Internship – Technician @ SpeedCM, Chiangmai (2022) 
   - Practiced troubleshooting & repairing computers and office equipment  
 
 ---
 
 ### 🎓 Education
 - **Rajamangala University of Technology**  
-  Computer Engineering (2023 – Now):contentReference[oaicite:5]{index=5}  
+  Computer Engineering (2023 – Now):contentReference 
   - Core subjects: *Neural Networks & Deep Learning, Software Design & Development, AI/ML basics*  
   - GPA: **3.23 / 4.00**  
 
@@ -49,7 +49,7 @@
 - **Databases:** SQLite, MySQL, MongoDB  
 - **Tools:** Arduino IDE, VS Code, WSL, Postman, Google Cloud Platform (OAuth2/Drive API)  
 - **Other:** Git/GitHub (team collaboration), Linux environments  
-- **Languages:** Thai (Native), English (Intermediate – technical reading & basic communication):contentReference[oaicite:6]{index=6}
+- **Languages:** Thai (Native), English (Intermediate – technical reading & basic communication)
 
 ---
 
