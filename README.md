@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Benjarong Kanthajai</h1>
-<h3 align="center">A passionate Fullstack Developer & Embedded Systems Enthusiast from Thailand</h3>
-
----
 
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering Student @ Rajamangala University of Technology (GPA: 3.23/4.00):contentReference[oaicite:1]{index=1}
