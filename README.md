@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjarong Kanthajai</h1>
 
 ### 👨‍💻 About Me
-- 🎓 Computer Engineering Student @ Rajamangala University of Technology (GPA: 3.23/4.00):contentReference[oaicite:1]{index=1}
+- 🎓 Computer Engineering Student @ Rajamangala University of Technology (GPA: 3.23/4.00)
 - 🔭 Exploring **Embedded Systems (ESP32, IoT)** and **AI/ML projects**
 - 🌱 Learning **Deep Learning**, **Data Engineering**, and **Fullstack Development**
 - 💬 Ask me about **Fullstack Development, IoT, and Cloud Integration**
