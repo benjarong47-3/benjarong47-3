@@ -15,6 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjarong47-3&show_icons=true&locale=en&layout=compact" alt="benjarong47-3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjarong47-3&show_icons=true&locale=en" alt="benjarong47-3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjarong47-3&" alt="benjarong47-3" /></p>
