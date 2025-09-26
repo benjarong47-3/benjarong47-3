@@ -1,17 +1,70 @@
 <h1 align="center">Hi 👋, I'm Benjarong Kanthajai</h1>
-<h3 align="center">A passionate fullstack developer from Thailand</h3>
+<h3 align="center">A passionate Fullstack Developer & Embedded Systems Enthusiast from Thailand</h3>
 
-- 📫 How to reach me **bankkanthajai@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+- 🎓 Computer Engineering Student @ Rajamangala University of Technology (GPA: 3.23/4.00):contentReference[oaicite:1]{index=1}
+- 🔭 Exploring **Embedded Systems (ESP32, IoT)** and **AI/ML projects**
+- 🌱 Learning **Deep Learning**, **Data Engineering**, and **Fullstack Development**
+- 💬 Ask me about **Fullstack Development, IoT, and Cloud Integration**
+- 📫 Reach me at **bankkanthajai@gmail.com**
+- 📱 093-374-4991  
+
+---
+
+### 📖 What I'm Learning
+- 📐 **Software Engineering Foundations** – Agile, Requirements, UML Diagrams, Architecture & Low-Level Design  
+- 🌐 **Frontend Development** – HTML5, CSS3, JavaScript (ES6+), React.js  
+- ⚙️ **Backend Development** – Node.js, Express.js, REST API, MongoDB  
+- 🧪 **Testing & QA** – Jest, React Testing Library, Postman (API testing)  
+- 🚀 **DevOps & Deployment** – Netlify, Heroku, GitHub Actions (CI/CD basics)  
+
+---
+
+### 💼 Experience
+- 🖥️ **Full-Stack Projects**:contentReference[oaicite:2]{index=2}  
+  - Developed web applications with **Node.js + Express + React** and database management  
+  - Built a **Portfolio Website** with Dark Mode, Responsive Design, and Scroll Animation  
+  - Worked in teams using GitHub workflow (Dev A / Dev B branching, merging, PRs)  
+
+- 🔌 **Embedded & IoT Projects**:contentReference[oaicite:3]{index=3}  
+  - Designed and built a **data logger on ESP32**, recording audio via I2S microphones and sensor data (DHT22)  
+  - Implemented **WAV/CSV auto-upload to Google Drive** via OAuth2 API  
+  - Researched and prototyped an **ultrasonic plant-stress detection system**  
+
+- 🛠️ **Internship – Technician @ SpeedCM, Chiangmai (2022)**:contentReference[oaicite:4]{index=4}  
+  - Practiced troubleshooting & repairing computers and office equipment  
+
+---
+
+### 🎓 Education
+- **Rajamangala University of Technology**  
+  Computer Engineering (2023 – Now):contentReference[oaicite:5]{index=5}  
+  - Core subjects: *Neural Networks & Deep Learning, Software Design & Development, AI/ML basics*  
+  - GPA: **3.23 / 4.00**  
+
+---
+
+### 🛠️ Skills
+- **Languages:** JavaScript (Node.js, Express), C/C++ (ESP32/Arduino), SQL  
+- **Web Development:** HTML5, CSS3, React, REST API  
+- **Databases:** SQLite, MySQL, MongoDB  
+- **Tools:** Arduino IDE, VS Code, WSL, Postman, Google Cloud Platform (OAuth2/Drive API)  
+- **Other:** Git/GitHub (team collaboration), Linux environments  
+- **Languages:** Thai (Native), English (Intermediate – technical reading & basic communication):contentReference[oaicite:6]{index=6}
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://fb.com/benjarong kanthajai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="benjarong kanthajai" height="30" width="40" /></a>
 <a href="https://discord.gg/364038873208193024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="364038873208193024" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjarong47-3&show_icons=true&locale=en&layout=compact" alt="benjarong47-3" /></p>
-
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjarong47-3&show_icons=true&locale=en&layout=compact" alt="benjarong47-3" />
+</p>
